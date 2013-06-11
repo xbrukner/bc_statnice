@@ -30,6 +30,9 @@ K maticím - základní informace na webu [Matematika polopatě](http://www.matw
 
 K afinním transformacím - hezky zpracovaná stránka na [wikiknihách](http://cs.wikibooks.org/wiki/Geometrie/Afinní_transformace_souřadnic), a slidy ke [Transformacím v rovině](http://www.fi.muni.cz/~xpelanek/IV122/slidy/lingebra.pdf) z předmětu IV122 (první část slidů).
 
+**Update 11. 6.:**
+Jako dobré materiály se jeví sbírka příkladů s vysvětlením od [doc. Čadka k lineární algebře](https://is.muni.cz/el/1431/podzim2009/M1111/um/ulohy/la1_sbirka.pdf?fakulta=1431;obdobi=4663;predmet=501847), kde je vysvětlena většina věcí, a to jak s vysvětlujícími příklady, tak s příklady k procvičení (s řešením na konci). Některé věci zde vysvětleny však nejsou (vlastní čísla), na to jsou zde [slidy k předmětu Lineární modely](https://is.muni.cz/el/1433/jaro2013/MB101/um/39028946/).
+
 ### 4. Matematická analýza
 
 *Vlastnosti reálných funkcí, polynomy, spojité funkce a limity, derivace, neurčitý a určitý integrál. Funkce více proměnných, parciální derivace.*
