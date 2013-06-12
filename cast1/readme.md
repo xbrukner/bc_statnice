@@ -10,6 +10,9 @@ Spousta odkazů je na stránku věnující se vypracovaným otázkám na [dqd.cz
 
 [Vypracovaná část otázky na dqd.cz](http://statnice.dqd.cz/home:inf:ap1) - chybí zde teorie čísel, její části na Wikipedii: [Dělitelnost](http://cs.wikipedia.org/wiki/Dělitelnost), [Euklidův algoritmus](http://cs.wikipedia.org/wiki/Eukleidův_algoritmus), [Modulární aritmetika](http://cs.wikipedia.org/wiki/Modulární_aritmetika).
 
+**Update 12. 6.:**
+Jako dobrý zdroj jsou dále slidy k [IB000](http://www.fi.muni.cz/~hlineny/Vyuka/UINF/) - především slidy [Množiny, relace, funkce](http://www.fi.muni.cz/~hlineny/Vyuka/UINF/UInf-lect--3.pdf), [Relace a funkce, ekvivalence](http://www.fi.muni.cz/~hlineny/Vyuka/UINF/UInf-lect--4.pdf), [Uspořádané množiny](http://www.fi.muni.cz/~hlineny/Vyuka/UINF/UInf-lect--5.pdf). Dále pak [uspořádané n-tice na Wikipedii](http://cs.wikipedia.org/wiki/Uspořádaná_n-tice) (pro obecné n-tice, ne jen dvojice), [Rozšířený Euklidův algoritmus](http://cs.wikipedia.org/wiki/Rozšířený_Eukleidův_algoritmus) a [Bézoutova rovnost](http://cs.wikipedia.org/wiki/Bézoutova_rovnost).
+
 ### 2. Logika
 
 *Výroková logika, operace, syntax. Sémantika, pravdivost, splnitelnost. Dokazatelnost, důkazové metody a systémy. Normální formy (konjunktivní a disjunktivní).*
